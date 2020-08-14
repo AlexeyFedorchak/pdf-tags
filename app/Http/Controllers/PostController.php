@@ -51,7 +51,7 @@ class PostController extends Controller
 
 
         if (strpos($res, 'Page') !== false) {
-            $mpdf = new \mPDF();
+            $mpdf = new \Mpdf\Mpdf();
             $mpdf->WriteHTML($newData);
             $mpdf->Output();
         }
