@@ -13,10 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/pdf', function () {
-    dd(1);
-});
+Route::get('/', [\App\Http\Controllers\IndexController::class, 'index']);
