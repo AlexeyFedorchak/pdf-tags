@@ -42,7 +42,7 @@ class PostController extends Controller
         $newData = [];
         foreach ($explodedByLines as $key => $line) {
             if ($key == 2)
-                $newData[] = '<Document>Some tag</Document>';
+                $newData[] = '<Document style="background: green">Added tag</Document>';
 
             $newData[] = $line;
         }
