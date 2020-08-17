@@ -44,6 +44,7 @@ class PostController extends Controller
             if ($key == 2) {
                 $newData[] = '<h3 style="background: green">Some tag</h3>';
                 $newData[] = '<Document style="background: green">Document tag</Document>';
+                $newData[] = '<h3 style="background: green">The content of the document you\'ve uploaded:</h3>';
             }
 
 

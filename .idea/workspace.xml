@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68144f70-adfb-4659-bb6f-d67499ec1e96" name="Default Changelist" comment="Fix: test another tag">
+    <list default="true" id="68144f70-adfb-4659-bb6f-d67499ec1e96" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +157,7 @@
       <workItem from="1597418730334" duration="9395000" />
       <workItem from="1597444077456" duration="6000" />
       <workItem from="1597655599385" duration="30000" />
-      <workItem from="1597680817969" duration="2094000" />
+      <workItem from="1597680817969" duration="2602000" />
     </task>
     <task id="LOCAL-00001" summary="Update: added route and blade">
       <created>1597420124180</created>
@@ -201,7 +201,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597681924628</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fix: test another tag">
+      <created>1597682991424</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597682991424</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix: test another tag">
+      <created>1597683096802</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597683096802</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert">
+      <created>1597683286682</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597683286683</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,17 +234,18 @@
     <MESSAGE value="Update: try another file name" />
     <MESSAGE value="Upadte: revert" />
     <MESSAGE value="Fix: test another tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: test another tag" />
+    <MESSAGE value="Revert" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert" />
   </component>
   <component name="WindowStateProjectService">
     <state x="782" y="233" width="412" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1597424306022">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="782" y="233" width="412" height="638" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1597424306022" />
-    <state x="532" y="100" width="912" height="904" key="CommitChangelistDialog2" timestamp="1597681928666">
+    <state x="532" y="100" width="912" height="904" key="CommitChangelistDialog2" timestamp="1597683286627">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="532" y="100" width="912" height="904" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1597681928666" />
+    <state x="532" y="100" width="912" height="904" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1597683286627" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597655626483">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -232,10 +254,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1597423973825" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597681934085">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597683374353">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1597681934085" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1597683374353" />
     <state x="684" y="291" width="618" height="522" key="find.popup" timestamp="1597421106637">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
